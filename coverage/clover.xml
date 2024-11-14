@@ -1,0 +1,2026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1627072297022" clover="3.2.0">
+  <project timestamp="1627072297022" name="All files">
+    <metrics statements="1240" coveredstatements="0" conditionals="550" coveredconditionals="0" methods="605" coveredmethods="1" elements="2395" coveredelements="1" complexity="0" loc="1240" ncloc="1240" packages="42" files="218" classes="218"/>
+    <package name="components.AboutUs">
+      <metrics statements="10" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="13" coveredmethods="0"/>
+      <file name="AboutUsCulture.vue" path="/Users/developer/Projects/tami-pardee-spa/components/AboutUs/AboutUsCulture.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+      </file>
+      <file name="AboutUsMain.vue" path="/Users/developer/Projects/tami-pardee-spa/components/AboutUs/AboutUsMain.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AboutUsMeetTeam.vue" path="/Users/developer/Projects/tami-pardee-spa/components/AboutUs/AboutUsMeetTeam.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+      <file name="AboutUsOurWork.vue" path="/Users/developer/Projects/tami-pardee-spa/components/AboutUs/AboutUsOurWork.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AboutUsPartners.vue" path="/Users/developer/Projects/tami-pardee-spa/components/AboutUs/AboutUsPartners.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AboutUsRelocating.vue" path="/Users/developer/Projects/tami-pardee-spa/components/AboutUs/AboutUsRelocating.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+      <file name="AboutUsServices.vue" path="/Users/developer/Projects/tami-pardee-spa/components/AboutUs/AboutUsServices.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="55" count="0" type="stmt"/>
+      </file>
+      <file name="AboutUsWhoWeAre.vue" path="/Users/developer/Projects/tami-pardee-spa/components/AboutUs/AboutUsWhoWeAre.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.App">
+      <metrics statements="132" coveredstatements="0" conditionals="49" coveredconditionals="0" methods="70" coveredmethods="1"/>
+      <file name="AppAgentsSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppAgentsSlider.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+      </file>
+      <file name="AppAgentsSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppAgentsSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AppContact.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppContact.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+      <file name="AppContactForm.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppContactForm.vue">
+        <metrics statements="29" coveredstatements="0" conditionals="22" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="185" count="0" type="stmt"/>
+        <line num="201" count="0" type="stmt"/>
+        <line num="214" count="0" type="stmt"/>
+        <line num="216" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="217" count="0" type="stmt"/>
+        <line num="220" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="221" count="0" type="stmt"/>
+        <line num="224" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="225" count="0" type="stmt"/>
+        <line num="228" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="229" count="0" type="stmt"/>
+        <line num="232" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="233" count="0" type="stmt"/>
+        <line num="236" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="237" count="0" type="stmt"/>
+        <line num="240" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="241" count="0" type="stmt"/>
+        <line num="244" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="245" count="0" type="stmt"/>
+        <line num="248" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="249" count="0" type="stmt"/>
+        <line num="252" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="253" count="0" type="stmt"/>
+        <line num="256" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="257" count="0" type="stmt"/>
+        <line num="260" count="0" type="stmt"/>
+        <line num="262" count="0" type="stmt"/>
+        <line num="263" count="0" type="stmt"/>
+        <line num="265" count="0" type="stmt"/>
+      </file>
+      <file name="AppContactItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppContactItem.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+      <file name="AppCopyright.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppCopyright.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AppFooter.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppFooter.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AppHeader.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppHeader.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="5" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="80" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+      </file>
+      <file name="AppIcons.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppIcons.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+      <file name="AppLink.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppLink.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="AppListingCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppListingCard.vue">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+      </file>
+      <file name="AppLoader.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppLoader.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+      </file>
+      <file name="AppLocationsItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppLocationsItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AppLogo.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppLogo.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      </file>
+      <file name="AppMainMenu.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppMainMenu.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="22" count="0" type="stmt"/>
+      </file>
+      <file name="AppMainMenuItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppMainMenuItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AppMap.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppMap.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+      <file name="AppMeetCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppMeetCard.vue">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+      </file>
+      <file name="AppMenuList.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppMenuList.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+      <file name="AppMenuListItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppMenuListItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="AppMobileNav.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppMobileNav.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+      <file name="AppNewListing.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppNewListing.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+      </file>
+      <file name="AppNewsSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppNewsSlider.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+      </file>
+      <file name="AppNewsSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppNewsSliderItem.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="72" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="84" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+      </file>
+      <file name="AppPagination.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppPagination.vue">
+        <metrics statements="15" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="103" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="119" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+      </file>
+      <file name="AppTabsList.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppTabsList.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+      </file>
+      <file name="AppTabsListItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppTabsListItem.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+      </file>
+      <file name="AppVideoPlayer.vue" path="/Users/developer/Projects/tami-pardee-spa/components/App/AppVideoPlayer.vue">
+        <metrics statements="11" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="71" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="72" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Blog">
+      <metrics statements="32" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="17" coveredmethods="0"/>
+      <file name="BlogArticleContent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Blog/BlogArticleContent.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="BlogCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Blog/BlogCard.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="44" count="0" type="stmt"/>
+      </file>
+      <file name="BlogCardsList.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Blog/BlogCardsList.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="16" count="0" type="stmt"/>
+      </file>
+      <file name="BlogCategories.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Blog/BlogCategories.vue">
+        <metrics statements="14" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="83" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+      </file>
+      <file name="BlogContent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Blog/BlogContent.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="86" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="87" count="0" type="stmt"/>
+      </file>
+      <file name="BlogContentList.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Blog/BlogContentList.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="BlogSearch.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Blog/BlogSearch.vue">
+        <metrics statements="13" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="80" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.BuildingResources">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="BuildingResourcesArchitects.vue" path="/Users/developer/Projects/tami-pardee-spa/components/BuildingResources/BuildingResourcesArchitects.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Community">
+      <metrics statements="68" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="53" coveredmethods="0"/>
+      <file name="CommunityArticles.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityArticles.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityFavorites.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityFavorites.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="CommunityFavoritesHorizontalSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityFavoritesHorizontalSlider.vue">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityFavoritesHorizontalSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityFavoritesHorizontalSliderItem.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="37" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityFavoritesVerticalSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityFavoritesVerticalSlider.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityFavoritesVerticalSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityFavoritesVerticalSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="CommunityIntroduction.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityIntroduction.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityListings.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityListings.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="74" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityListingsCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityListingsCard.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="117" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityMarketing.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityMarketing.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="109" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="119" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityMarketingTable.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityMarketingTable.vue">
+        <metrics statements="4" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityNeighborhoods.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityNeighborhoods.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="CommunityNeighborhoodsCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityNeighborhoodsCard.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="CommunityNeighborhoodsSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityNeighborhoodsSlider.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityNeighborhoodsSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityNeighborhoodsSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="CommunityPromo.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityPromo.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityPromoSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityPromoSlider.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+      </file>
+      <file name="CommunityPromoSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityPromoSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="CommunityServices.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Community/CommunityServices.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Contact">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="ContactMain.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Contact/ContactMain.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.Home">
+      <metrics statements="114" coveredstatements="0" conditionals="28" coveredconditionals="0" methods="71" coveredmethods="0"/>
+      <file name="HomeCommunities.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeCommunities.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="HomeCommunitiesHorizontalSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeCommunitiesHorizontalSlider.vue">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+      </file>
+      <file name="HomeCommunitiesHorizontalSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeCommunitiesHorizontalSliderItem.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="53" count="0" type="stmt"/>
+      </file>
+      <file name="HomeCommunitiesVerticalSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeCommunitiesVerticalSlider.vue">
+        <metrics statements="14" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="119" count="0" type="stmt"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+      </file>
+      <file name="HomeCommunitiesVerticalSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeCommunitiesVerticalSliderItem.vue">
+        <metrics statements="8" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="70" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="73" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+      </file>
+      <file name="HomeContact.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeContact.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="HomeContactItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeContactItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="HomeImageTabbed.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeImageTabbed.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="HomeLearn.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeLearn.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="120" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="147" count="0" type="stmt"/>
+      </file>
+      <file name="HomeMeet.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeMeet.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="58" count="0" type="stmt"/>
+      </file>
+      <file name="HomeMeetCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeMeetCard.vue">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+      </file>
+      <file name="HomeNewListing.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeNewListing.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="HomeNews.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeNews.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+      </file>
+      <file name="HomeNewsCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeNewsCard.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="87" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+      </file>
+      <file name="HomeNewsSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeNewsSlider.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+      </file>
+      <file name="HomeNewsSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeNewsSliderItem.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="72" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="84" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+      </file>
+      <file name="HomePromo.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomePromo.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="HomePromoSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomePromoSlider.vue">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+      </file>
+      <file name="HomePromoSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomePromoSliderItem.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="106" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="108" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+      </file>
+      <file name="HomeSearch.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Home/HomeSearch.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="72" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="78" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Landing">
+      <metrics statements="26" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="27" coveredmethods="0"/>
+      <file name="LandingAgents.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingAgents.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="50" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+      </file>
+      <file name="LandingAgentsSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingAgentsSlider.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="108" count="0" type="stmt"/>
+      </file>
+      <file name="LandingAgentsSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingAgentsSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LandingArticles.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingArticles.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LandingCompanies.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingCompanies.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="45" count="0" type="stmt"/>
+      </file>
+      <file name="LandingInfo.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingInfo.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LandingListing.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingListing.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LandingPlace.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingPlace.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="38" count="0" type="stmt"/>
+      </file>
+      <file name="LandingPromo.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingPromo.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LandingPromoSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingPromoSlider.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+      <file name="LandingPromoSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingPromoSliderItem.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="54" count="0" type="stmt"/>
+      </file>
+      <file name="LandingQuestions.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingQuestions.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="84" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+      </file>
+      <file name="LandingStories.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Landing/LandingStories.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.LifeProgram">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="0"/>
+      <file name="LifeProgramMainSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LifeProgram/LifeProgramMainSlider.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+      </file>
+      <file name="LifeProgramMainSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LifeProgram/LifeProgramMainSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      </file>
+      <file name="LifeProgramPartnerships.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LifeProgram/LifeProgramPartnerships.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LifeProgramQuote.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LifeProgram/LifeProgramQuote.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LifeProgramSupport.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LifeProgram/LifeProgramSupport.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.Listing">
+      <metrics statements="110" coveredstatements="0" conditionals="104" coveredconditionals="0" methods="48" coveredmethods="0"/>
+      <file name="ListingExplore.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingExplore.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+      <file name="ListingExploreCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingExploreCard.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="ListingExploreSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingExploreSlider.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+      </file>
+      <file name="ListingExploreSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingExploreSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="ListingGallery.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingGallery.vue">
+        <metrics statements="28" coveredstatements="0" conditionals="22" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="137" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="141" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="145" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="149" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="163" count="0" type="stmt"/>
+        <line num="167" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="168" count="0" type="stmt"/>
+        <line num="174" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="175" count="0" type="stmt"/>
+        <line num="181" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="182" count="0" type="stmt"/>
+        <line num="188" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="189" count="0" type="stmt"/>
+        <line num="195" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="196" count="0" type="stmt"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="206" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="207" count="0" type="stmt"/>
+        <line num="209" count="0" type="stmt"/>
+      </file>
+      <file name="ListingInfo.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingInfo.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="85" count="0" type="stmt"/>
+      </file>
+      <file name="ListingListings.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingListings.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="50" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="79" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+      </file>
+      <file name="ListingListingsCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingListingsCard.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+      </file>
+      <file name="ListingOpenTime.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingOpenTime.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+      </file>
+      <file name="ListingShowing.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingShowing.vue">
+        <metrics statements="35" coveredstatements="0" conditionals="50" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="132" count="0" type="stmt"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="181" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="182" count="0" type="stmt"/>
+        <line num="184" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="185" count="0" type="stmt"/>
+        <line num="187" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="188" count="0" type="stmt"/>
+        <line num="189" count="0" type="stmt"/>
+        <line num="191" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="192" count="0" type="stmt"/>
+        <line num="194" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="195" count="0" type="stmt"/>
+        <line num="197" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="201" count="0" type="stmt"/>
+        <line num="205" count="0" type="stmt"/>
+        <line num="207" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="208" count="0" type="stmt"/>
+        <line num="213" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="214" count="0" type="stmt"/>
+        <line num="219" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="220" count="0" type="stmt"/>
+        <line num="222" count="0" type="stmt"/>
+        <line num="225" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="226" count="0" type="stmt"/>
+        <line num="230" count="0" type="stmt"/>
+        <line num="235" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="236" count="0" type="stmt"/>
+        <line num="242" count="0" type="stmt"/>
+        <line num="246" count="0" type="stmt"/>
+        <line num="247" count="0" type="stmt"/>
+        <line num="252" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="256" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="260" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="ListingShowingCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingShowingCard.vue">
+        <metrics statements="11" coveredstatements="0" conditionals="18" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="69" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="77" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="88" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="99" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="ListingShowingReservationCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Listing/ListingShowingReservationCard.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="118" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="144" count="0" type="stmt"/>
+        <line num="148" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="151" count="0" type="stmt"/>
+        <line num="154" count="0" type="stmt"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.LookingBuy">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="LookingBuyAfford.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingBuy/LookingBuyAfford.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingBuyAgent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingBuy/LookingBuyAgent.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingBuyHelp.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingBuy/LookingBuyHelp.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingBuyMain.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingBuy/LookingBuyMain.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingBuyProof.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingBuy/LookingBuyProof.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingBuyRental.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingBuy/LookingBuyRental.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.LookingSell">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+      <file name="LookingSellAgent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingSell/LookingSellAgent.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingSellCover.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingSell/LookingSellCover.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingSellMain.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingSell/LookingSellMain.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingSellProactive.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingSell/LookingSellProactive.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingSellProof.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingSell/LookingSellProof.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingSellRent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingSell/LookingSellRent.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="LookingSellWorks.vue" path="/Users/developer/Projects/tami-pardee-spa/components/LookingSell/LookingSellWorks.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.Media">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+      <file name="MediaFeatured.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Media/MediaFeatured.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="MediaMain.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Media/MediaMain.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="MediaPress.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Media/MediaPress.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+      <file name="MediaPressItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Media/MediaPressItem.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="34" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.MeetTeam">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="MeetTeamContent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/MeetTeam/MeetTeamContent.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="48" count="0" type="stmt"/>
+      </file>
+      <file name="MeetTeamMain.vue" path="/Users/developer/Projects/tami-pardee-spa/components/MeetTeam/MeetTeamMain.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.Page">
+      <metrics statements="75" coveredstatements="0" conditionals="12" coveredconditionals="0" methods="74" coveredmethods="0"/>
+      <file name="PageAffordabilityCalculator.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageAffordabilityCalculator.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageAgentsCarousel.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageAgentsCarousel.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="50" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+      </file>
+      <file name="PageBlogsWithCategory.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageBlogsWithCategory.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="64" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="65" count="0" type="stmt"/>
+      </file>
+      <file name="PageBlogsWithCategoryList.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageBlogsWithCategoryList.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageCommunitiesVerticalSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageCommunitiesVerticalSlider.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="PageCtaBgPhoto.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageCtaBgPhoto.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageEmbedForm.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageEmbedForm.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageFeaturedProperty.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageFeaturedProperty.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageFeaturedStory.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageFeaturedStory.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageHero.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageHero.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageHeroSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageHeroSlider.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+      </file>
+      <file name="PageHeroSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageHeroSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      </file>
+      <file name="PageHorizontalSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageHorizontalSlider.vue">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+      </file>
+      <file name="PageHorizontalSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageHorizontalSliderItem.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="60" count="0" type="stmt"/>
+      </file>
+      <file name="PageIconGrid.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageIconGrid.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="51" count="0" type="stmt"/>
+      </file>
+      <file name="PageIntroText.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageIntroText.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageLandscape.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageLandscape.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageLatestNews.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageLatestNews.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageLocations.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageLocations.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageLogos.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageLogos.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="44" count="0" type="stmt"/>
+      </file>
+      <file name="PageTabbedContent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageTabbedContent.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="PageTabbedContentCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageTabbedContentCard.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="88" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+      </file>
+      <file name="PageTabbedContentWithBackground.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageTabbedContentWithBackground.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="PageTabbedContentWithBackgroundCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageTabbedContentWithBackgroundCard.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="86" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="89" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="109" count="0" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+      </file>
+      <file name="PageTextBlock.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageTextBlock.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageTextBlockWithImage.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageTextBlockWithImage.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="37" count="0" type="stmt"/>
+      </file>
+      <file name="PageTextBlockWithMediaGrid.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageTextBlockWithMediaGrid.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="58" count="0" type="stmt"/>
+      </file>
+      <file name="PageThreeColumnTestimonials.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageThreeColumnTestimonials.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PageTwoColumnCta.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageTwoColumnCta.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="57" count="0" type="stmt"/>
+      </file>
+      <file name="PageVerticalSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageVerticalSlider.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="100" count="0" type="stmt"/>
+      </file>
+      <file name="PageVerticalSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageVerticalSliderItem.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+      </file>
+      <file name="PageVideoRow.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageVideoRow.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+      </file>
+      <file name="PageWysiwyg.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Page/PageWysiwyg.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.Policy">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="PolicyContent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Policy/PolicyContent.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.Property">
+      <metrics statements="44" coveredstatements="0" conditionals="32" coveredconditionals="0" methods="32" coveredmethods="0"/>
+      <file name="PropertyExplore.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyExplore.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PropertyExploreCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyExploreCard.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PropertyExploreSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyExploreSlider.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+      </file>
+      <file name="PropertyExploreSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyExploreSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PropertyGallery.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyGallery.vue">
+        <metrics statements="23" coveredstatements="0" conditionals="28" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="122" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="126" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="127" count="0" type="stmt"/>
+        <line num="130" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="134" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="152" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="159" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="166" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="167" count="0" type="stmt"/>
+        <line num="173" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="174" count="0" type="stmt"/>
+        <line num="180" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="181" count="0" type="stmt"/>
+      </file>
+      <file name="PropertyInfo.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyInfo.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+      </file>
+      <file name="PropertyListings.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyListings.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+      <file name="PropertyListingsCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyListingsCard.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="96" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="98" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+      </file>
+      <file name="PropertyOpenTime.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyOpenTime.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="PropertyShowing.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyShowing.vue">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="197" count="0" type="stmt"/>
+        <line num="199" count="0" type="stmt"/>
+      </file>
+      <file name="PropertyShowingCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyShowingCard.vue">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="72" count="0" type="stmt"/>
+      </file>
+      <file name="PropertyShowingReservationCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Property/PropertyShowingReservationCard.vue">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="118" count="0" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Relocation">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="0"/>
+      <file name="RelocationFind.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Relocation/RelocationFind.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="RelocationHelp.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Relocation/RelocationHelp.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      </file>
+      <file name="RelocationLocation.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Relocation/RelocationLocation.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      </file>
+      <file name="RelocationMainSlider.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Relocation/RelocationMainSlider.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+      </file>
+      <file name="RelocationMainSliderItem.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Relocation/RelocationMainSliderItem.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      </file>
+      <file name="RelocationNeighborhoods.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Relocation/RelocationNeighborhoods.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+      <file name="RelocationReviews.vue" path="/Users/developer/Projects/tami-pardee-spa/components/Relocation/RelocationReviews.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="components.SearchHome">
+      <metrics statements="405" coveredstatements="0" conditionals="288" coveredconditionals="0" methods="83" coveredmethods="0"/>
+      <file name="SearchHomeFilterDesktop.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeFilterDesktop.vue">
+        <metrics statements="121" coveredstatements="0" conditionals="108" coveredconditionals="0" methods="17" coveredmethods="0"/>
+        <line num="347" count="0" type="stmt"/>
+        <line num="349" count="0" type="stmt"/>
+        <line num="365" count="0" type="stmt"/>
+        <line num="398" count="0" type="stmt"/>
+        <line num="400" count="0" type="stmt"/>
+        <line num="405" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="406" count="0" type="stmt"/>
+        <line num="407" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="408" count="0" type="stmt"/>
+        <line num="409" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="410" count="0" type="stmt"/>
+        <line num="411" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="412" count="0" type="stmt"/>
+        <line num="413" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="414" count="0" type="stmt"/>
+        <line num="415" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="416" count="0" type="stmt"/>
+        <line num="418" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="419" count="0" type="stmt"/>
+        <line num="421" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="422" count="0" type="stmt"/>
+        <line num="424" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="425" count="0" type="stmt"/>
+        <line num="427" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="428" count="0" type="stmt"/>
+        <line num="430" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="431" count="0" type="stmt"/>
+        <line num="433" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="434" count="0" type="stmt"/>
+        <line num="436" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="437" count="0" type="stmt"/>
+        <line num="440" count="0" type="stmt"/>
+        <line num="441" count="0" type="stmt"/>
+        <line num="442" count="0" type="stmt"/>
+        <line num="453" count="0" type="stmt"/>
+        <line num="459" count="0" type="stmt"/>
+        <line num="461" count="0" type="stmt"/>
+        <line num="465" count="0" type="stmt"/>
+        <line num="467" count="0" type="stmt"/>
+        <line num="471" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="472" count="0" type="stmt"/>
+        <line num="477" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="478" count="0" type="stmt"/>
+        <line num="480" count="0" type="stmt"/>
+        <line num="482" count="0" type="stmt"/>
+        <line num="485" count="0" type="stmt"/>
+        <line num="489" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="490" count="0" type="stmt"/>
+        <line num="493" count="0" type="stmt"/>
+        <line num="497" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="498" count="0" type="stmt"/>
+        <line num="499" count="0" type="stmt"/>
+        <line num="501" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="502" count="0" type="stmt"/>
+        <line num="505" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="506" count="0" type="stmt"/>
+        <line num="509" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="510" count="0" type="stmt"/>
+        <line num="513" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="514" count="0" type="stmt"/>
+        <line num="516" count="0" type="stmt"/>
+        <line num="518" count="0" type="stmt"/>
+        <line num="523" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="524" count="0" type="stmt"/>
+        <line num="529" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="530" count="0" type="stmt"/>
+        <line num="535" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="536" count="0" type="stmt"/>
+        <line num="541" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="542" count="0" type="stmt"/>
+        <line num="547" count="0" type="stmt"/>
+        <line num="548" count="0" type="stmt"/>
+        <line num="549" count="0" type="stmt"/>
+        <line num="550" count="0" type="stmt"/>
+        <line num="551" count="0" type="stmt"/>
+        <line num="552" count="0" type="stmt"/>
+        <line num="553" count="0" type="stmt"/>
+        <line num="554" count="0" type="stmt"/>
+        <line num="555" count="0" type="stmt"/>
+        <line num="556" count="0" type="stmt"/>
+        <line num="560" count="0" type="stmt"/>
+        <line num="561" count="0" type="stmt"/>
+        <line num="563" count="0" type="stmt"/>
+        <line num="564" count="0" type="stmt"/>
+        <line num="565" count="0" type="stmt"/>
+        <line num="567" count="0" type="stmt"/>
+        <line num="569" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="570" count="0" type="stmt"/>
+        <line num="573" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="574" count="0" type="stmt"/>
+        <line num="577" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="578" count="0" type="stmt"/>
+        <line num="581" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="589" count="0" type="stmt"/>
+        <line num="592" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="593" count="0" type="stmt"/>
+        <line num="596" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="597" count="0" type="stmt"/>
+        <line num="600" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="601" count="0" type="stmt"/>
+        <line num="604" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="605" count="0" type="stmt"/>
+        <line num="608" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="609" count="0" type="stmt"/>
+        <line num="612" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="613" count="0" type="stmt"/>
+        <line num="616" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="617" count="0" type="stmt"/>
+        <line num="620" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="621" count="0" type="stmt"/>
+        <line num="624" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="625" count="0" type="stmt"/>
+        <line num="628" count="0" type="stmt"/>
+        <line num="630" count="0" type="stmt"/>
+        <line num="632" count="0" type="stmt"/>
+        <line num="638" count="0" type="stmt"/>
+        <line num="639" count="0" type="stmt"/>
+        <line num="641" count="0" type="stmt"/>
+        <line num="643" count="0" type="stmt"/>
+        <line num="648" count="0" type="stmt"/>
+        <line num="651" count="0" type="stmt"/>
+      </file>
+      <file name="SearchHomeFilterMobile.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeFilterMobile.vue">
+        <metrics statements="121" coveredstatements="0" conditionals="108" coveredconditionals="0" methods="17" coveredmethods="0"/>
+        <line num="362" count="0" type="stmt"/>
+        <line num="364" count="0" type="stmt"/>
+        <line num="380" count="0" type="stmt"/>
+        <line num="413" count="0" type="stmt"/>
+        <line num="415" count="0" type="stmt"/>
+        <line num="420" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="421" count="0" type="stmt"/>
+        <line num="422" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="423" count="0" type="stmt"/>
+        <line num="424" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="425" count="0" type="stmt"/>
+        <line num="426" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="427" count="0" type="stmt"/>
+        <line num="428" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="429" count="0" type="stmt"/>
+        <line num="430" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="431" count="0" type="stmt"/>
+        <line num="433" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="434" count="0" type="stmt"/>
+        <line num="436" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="437" count="0" type="stmt"/>
+        <line num="439" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="440" count="0" type="stmt"/>
+        <line num="442" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="443" count="0" type="stmt"/>
+        <line num="445" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="446" count="0" type="stmt"/>
+        <line num="448" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="449" count="0" type="stmt"/>
+        <line num="451" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="452" count="0" type="stmt"/>
+        <line num="455" count="0" type="stmt"/>
+        <line num="456" count="0" type="stmt"/>
+        <line num="457" count="0" type="stmt"/>
+        <line num="468" count="0" type="stmt"/>
+        <line num="474" count="0" type="stmt"/>
+        <line num="476" count="0" type="stmt"/>
+        <line num="480" count="0" type="stmt"/>
+        <line num="482" count="0" type="stmt"/>
+        <line num="486" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="487" count="0" type="stmt"/>
+        <line num="492" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="493" count="0" type="stmt"/>
+        <line num="495" count="0" type="stmt"/>
+        <line num="497" count="0" type="stmt"/>
+        <line num="500" count="0" type="stmt"/>
+        <line num="504" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="505" count="0" type="stmt"/>
+        <line num="508" count="0" type="stmt"/>
+        <line num="512" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="513" count="0" type="stmt"/>
+        <line num="514" count="0" type="stmt"/>
+        <line num="516" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="517" count="0" type="stmt"/>
+        <line num="520" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="521" count="0" type="stmt"/>
+        <line num="524" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="525" count="0" type="stmt"/>
+        <line num="528" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="529" count="0" type="stmt"/>
+        <line num="531" count="0" type="stmt"/>
+        <line num="533" count="0" type="stmt"/>
+        <line num="538" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="539" count="0" type="stmt"/>
+        <line num="544" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="545" count="0" type="stmt"/>
+        <line num="550" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="551" count="0" type="stmt"/>
+        <line num="556" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="557" count="0" type="stmt"/>
+        <line num="562" count="0" type="stmt"/>
+        <line num="563" count="0" type="stmt"/>
+        <line num="564" count="0" type="stmt"/>
+        <line num="565" count="0" type="stmt"/>
+        <line num="566" count="0" type="stmt"/>
+        <line num="567" count="0" type="stmt"/>
+        <line num="568" count="0" type="stmt"/>
+        <line num="569" count="0" type="stmt"/>
+        <line num="570" count="0" type="stmt"/>
+        <line num="571" count="0" type="stmt"/>
+        <line num="575" count="0" type="stmt"/>
+        <line num="576" count="0" type="stmt"/>
+        <line num="578" count="0" type="stmt"/>
+        <line num="579" count="0" type="stmt"/>
+        <line num="580" count="0" type="stmt"/>
+        <line num="582" count="0" type="stmt"/>
+        <line num="584" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="585" count="0" type="stmt"/>
+        <line num="588" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="589" count="0" type="stmt"/>
+        <line num="592" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="593" count="0" type="stmt"/>
+        <line num="596" count="0" type="cond" truecount="0" falsecount="8"/>
+        <line num="604" count="0" type="stmt"/>
+        <line num="607" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="608" count="0" type="stmt"/>
+        <line num="611" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="612" count="0" type="stmt"/>
+        <line num="615" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="616" count="0" type="stmt"/>
+        <line num="619" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="620" count="0" type="stmt"/>
+        <line num="623" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="624" count="0" type="stmt"/>
+        <line num="627" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="628" count="0" type="stmt"/>
+        <line num="631" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="632" count="0" type="stmt"/>
+        <line num="635" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="636" count="0" type="stmt"/>
+        <line num="639" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="640" count="0" type="stmt"/>
+        <line num="643" count="0" type="stmt"/>
+        <line num="645" count="0" type="stmt"/>
+        <line num="647" count="0" type="stmt"/>
+        <line num="653" count="0" type="stmt"/>
+        <line num="654" count="0" type="stmt"/>
+        <line num="656" count="0" type="stmt"/>
+        <line num="658" count="0" type="stmt"/>
+        <line num="663" count="0" type="stmt"/>
+        <line num="666" count="0" type="stmt"/>
+      </file>
+      <file name="SearchHomeListingsList.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeListingsList.vue">
+        <metrics statements="22" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="79" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="89" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="93" count="0" type="stmt"/>
+        <line num="103" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+        <line num="112" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="124" count="0" type="stmt"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="131" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="134" count="0" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+      </file>
+      <file name="SearchHomeListingsListCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeListingsListCard.vue">
+        <metrics statements="19" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="122" count="0" type="stmt"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="132" count="0" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="140" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="145" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="152" count="0" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+      </file>
+      <file name="SearchHomeListingsListCardAuthor.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeListingsListCardAuthor.vue">
+        <metrics statements="17" coveredstatements="0" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="123" count="0" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="132" count="0" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="139" count="0" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="151" count="0" type="stmt"/>
+      </file>
+      <file name="SearchHomeListingsTile.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeListingsTile.vue">
+        <metrics statements="22" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="94" count="0" type="stmt"/>
+        <line num="111" count="0" type="stmt"/>
+        <line num="124" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="134" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="138" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="152" count="0" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="159" count="0" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="162" count="0" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+        <line num="169" count="0" type="stmt"/>
+        <line num="171" count="0" type="stmt"/>
+        <line num="176" count="0" type="stmt"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="181" count="0" type="stmt"/>
+      </file>
+      <file name="SearchHomeListingsTileCard.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeListingsTileCard.vue">
+        <metrics statements="25" coveredstatements="0" conditionals="17" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="102" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="125" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="129" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="147" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="162" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="168" count="0" type="stmt"/>
+        <line num="169" count="0" type="stmt"/>
+        <line num="171" count="0" type="stmt"/>
+        <line num="176" count="0" type="stmt"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="179" count="0" type="stmt"/>
+        <line num="181" count="0" type="stmt"/>
+      </file>
+      <file name="SearchHomeListingsTileCardAuthor.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeListingsTileCardAuthor.vue">
+        <metrics statements="20" coveredstatements="0" conditionals="17" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="124" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="125" count="0" type="stmt"/>
+        <line num="128" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="132" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="154" count="0" type="stmt"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="159" count="0" type="stmt"/>
+        <line num="164" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="167" count="0" type="stmt"/>
+        <line num="169" count="0" type="stmt"/>
+      </file>
+      <file name="SearchHomeListingsTileMap.vue" path="/Users/developer/Projects/tami-pardee-spa/components/SearchHome/SearchHomeListingsTileMap.vue">
+        <metrics statements="38" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="10" coveredmethods="0"/>
+        <line num="180" count="0" type="stmt"/>
+        <line num="182" count="0" type="stmt"/>
+        <line num="184" count="0" type="stmt"/>
+        <line num="185" count="0" type="stmt"/>
+        <line num="207" count="0" type="stmt"/>
+        <line num="230" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="234" count="0" type="stmt"/>
+        <line num="240" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="241" count="0" type="stmt"/>
+        <line num="244" count="0" type="stmt"/>
+        <line num="246" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="247" count="0" type="stmt"/>
+        <line num="250" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="251" count="0" type="stmt"/>
+        <line num="262" count="0" type="stmt"/>
+        <line num="264" count="0" type="stmt"/>
+        <line num="266" count="0" type="stmt"/>
+        <line num="268" count="0" type="stmt"/>
+        <line num="270" count="0" type="stmt"/>
+        <line num="283" count="0" type="stmt"/>
+        <line num="285" count="0" type="stmt"/>
+        <line num="287" count="0" type="stmt"/>
+        <line num="292" count="0" type="stmt"/>
+        <line num="294" count="0" type="stmt"/>
+        <line num="295" count="0" type="stmt"/>
+        <line num="297" count="0" type="stmt"/>
+        <line num="302" count="0" type="stmt"/>
+        <line num="304" count="0" type="stmt"/>
+        <line num="306" count="0" type="stmt"/>
+        <line num="311" count="0" type="stmt"/>
+        <line num="313" count="0" type="stmt"/>
+        <line num="314" count="0" type="stmt"/>
+        <line num="316" count="0" type="stmt"/>
+        <line num="321" count="0" type="stmt"/>
+        <line num="322" count="0" type="stmt"/>
+        <line num="326" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="327" count="0" type="stmt"/>
+        <line num="329" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.TeamMember">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="TeamMemberContent.vue" path="/Users/developer/Projects/tami-pardee-spa/components/TeamMember/TeamMemberContent.vue">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="pages">
+      <metrics statements="12" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/index.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="101" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.about-us">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/about-us/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.blog">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/blog/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.blog._id">
+      <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/blog/_id/index.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.blog._name._id">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/blog/_name/_id/index.vue">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.blog.search">
+      <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/blog/search/index.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.building-resources">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/building-resources/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.communities._title">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/communities/_title/index.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.contact">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/contact/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.landing">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/landing/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="85" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.life-changer-program">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/life-changer-program/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.listing._state._city._title._id">
+      <metrics statements="15" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/listing/_state/_city/_title/_id/index.vue">
+        <metrics statements="15" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="79" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.looking-to-buy">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/looking-to-buy/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.looking-to-sell">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/looking-to-sell/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.meet-the-team">
+      <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/meet-the-team/index.vue">
+        <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.page._slug">
+      <metrics statements="12" coveredstatements="0" conditionals="7" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/page/_slug/index.vue">
+        <metrics statements="12" coveredstatements="0" conditionals="7" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="144" count="0" type="stmt"/>
+        <line num="148" count="0" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="154" count="0" type="stmt"/>
+        <line num="161" count="0" type="stmt"/>
+        <line num="163" count="0" type="stmt"/>
+        <line num="174" count="0" type="stmt"/>
+        <line num="175" count="0" type="cond" truecount="0" falsecount="7"/>
+        <line num="178" count="0" type="stmt"/>
+        <line num="180" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.press-and-media">
+      <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/press-and-media/index.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.privacy-policy">
+      <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/privacy-policy/index.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.property._state._city._title._id">
+      <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/property/_state/_city/_title/_id/index.vue">
+        <metrics statements="6" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.relocation">
+      <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/relocation/index.vue">
+        <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.search-home">
+      <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/search-home/index.vue">
+        <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="209" count="0" type="stmt"/>
+        <line num="214" count="0" type="stmt"/>
+        <line num="223" count="0" type="stmt"/>
+        <line num="227" count="0" type="stmt"/>
+        <line num="231" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.team._name">
+      <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="index.vue" path="/Users/developer/Projects/tami-pardee-spa/pages/team/_name/index.vue">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
